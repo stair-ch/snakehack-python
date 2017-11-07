@@ -1,0 +1,7 @@
+{
+  "name": "SnakeHack Python",
+  "description": "A simple SnakeHack AI written in Python.",
+  "repository": "https://github.com/stair-ch/snakehack-python",
+  "website": "http://snakehack.stair.ch",
+  "keywords": ["snakehack","stair"]
+}
