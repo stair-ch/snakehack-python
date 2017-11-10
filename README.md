@@ -37,7 +37,7 @@ python app/main.py
 
 1) Create a new Heroku app:
 ```
-heroku create [APP_NAME --region eu
+heroku create [APP_NAME] --region eu
 ```
 
 2) Deploy code to Heroku servers:
