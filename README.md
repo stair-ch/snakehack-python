@@ -1,8 +1,6 @@
 # snakehack-python
 
-A simple snakehack written in Python. 
-
-Visit [battlesnake.io/readme](http://battlesnake.io/readme) for API documentation and instructions for running your AI.
+A simple snakehack written in Python.
 
 This AI client uses the [bottle web framework](http://bottlepy.org/docs/dev/index.html) to serve requests and the [gunicorn web server](http://gunicorn.org/) for running bottle on Heroku. Dependencies are listed in [requirements.txt](requirements.txt).
 
@@ -39,7 +37,7 @@ python app/main.py
 
 1) Create a new Heroku app:
 ```
-heroku create [APP_NAME]
+heroku create [APP_NAME --region eu
 ```
 
 2) Deploy code to Heroku servers:
